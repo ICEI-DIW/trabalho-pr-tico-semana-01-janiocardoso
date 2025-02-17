@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Jânio Júnio de freitas Cardoso
+Matricula: 882385
 
 ## Tela de inspeção com navegador
-
+![Imagem] (feramentadodesenvolvedor.png)
 
 ## Tela de projeto no Replit
-
+![Imagem] (repl.it.png)
