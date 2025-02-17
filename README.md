@@ -7,7 +7,7 @@ Nome: Jânio Júnio de freitas Cardoso
 Matricula: 882385
 
 ## Tela de inspeção com navegador
-![Imagem] (feramentadodesenvolvedor.png)
+![Imagem](feramentadodesenvolvedor.png)
 
 ## Tela de projeto no Replit
-![Imagem] (repl.it.png)
+![Imagem](repl.it.png)
